@@ -16,10 +16,15 @@ By completing this pre-class work, you will:
 
 ### **Prerequisites**
 
+### For Google Colab User
+
+**If you use Google Colab to run the Jupyter notebook, no installation is required.**
+
+### For VS Code User
+
+**Please follow the Installation Instructions below**
+
 Ensure you have Python 3.8+ and Jupyter Notebook/Lab installed.
-
-### **Installation Instructions**
-
 Open your terminal or command prompt and run:
 
 ```
@@ -28,7 +33,7 @@ pip install pandas numpy
 conda install pandas numpy
 ```
 
-### **Verification**
+#### **Verification**
 
 Create a new Jupyter Notebook and run this cell:
 
